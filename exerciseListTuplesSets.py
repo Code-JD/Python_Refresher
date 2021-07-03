@@ -1,0 +1,15 @@
+# Create a list, called my_list, with three numbers.
+# The total of the numbers added together should be 100
+my_list = [10, 20, 70]
+
+# Create a tuple, called my_tuple, with a single value in it
+my_tuple = 10,
+# -or-
+my_tuple1 = (10,)
+
+
+# Modify set2 so that set1.intersection(set2) returns {5, 77, 9, 12}
+set1 = {14, 5, 9, 31, 12, 77, 67, 8}
+set2 = {12, 9, 77, 5}
+
+print(set1.intersection(set2))
